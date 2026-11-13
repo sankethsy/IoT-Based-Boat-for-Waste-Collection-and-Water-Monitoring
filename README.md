@@ -1,1 +1,1 @@
-# IoT-Based-Boat-for-Waste-Collection-and-Waterer-Monitoring
+# IoT-Based-Boat-for-Waste-Collection-and-Water-Monitoring
